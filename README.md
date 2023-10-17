@@ -23,7 +23,7 @@ Contributions and feedback are welcome. Please feel free to submit issues, pull 
 
 Clone or fork this repository for your own sales analysis projects.
 Follow the Jupyter Notebooks to learn linear regression and sales analysis.
-Use the provided dataset or replace it with your own data.
+
 
 
 [sourav thapa ] - Project creator and maintainer.
