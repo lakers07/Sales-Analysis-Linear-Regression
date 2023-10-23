@@ -1,4 +1,4 @@
-# Sales-Analysis-Linear-Regression
+# Sales-Analysis-Linear-Regression capstone 1 project
 A repository for a project on Sales Analysis using Linear Regression, showcasing how to predict and analyze sales trends using statistical modeling.
 
 # Key Features:
